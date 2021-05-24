@@ -39,8 +39,8 @@ namespace CadastroCaminhao.Models
                     context.Caminhao.AddRange(
                         new Caminhao
                         {
-                            AnoFabricacao = "1989-2-12",
-                            AnoModelo = "1989-2-12",
+                            AnoFabricacao = "1989",
+                            AnoModelo = "1989",
                             ModeloId = context.Modelo.FirstOrDefault(m => m.Descricao == "FM").Id
                         }
                     ) ;
