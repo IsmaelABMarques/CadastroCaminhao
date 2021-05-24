@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29709.97
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CadastroCaminhao", "CadastroCaminhao\CadastroCaminhao.csproj", "{EDB5BAFE-9C83-401D-A562-DE8B205FD11E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CadastroCaminhaoTest", "CadastroCaminhaoTest\CadastroCaminhaoTest.csproj", "{0E777100-D736-40D1-8452-0F793461C56F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EDB5BAFE-9C83-401D-A562-DE8B205FD11E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EDB5BAFE-9C83-401D-A562-DE8B205FD11E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EDB5BAFE-9C83-401D-A562-DE8B205FD11E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EDB5BAFE-9C83-401D-A562-DE8B205FD11E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0E777100-D736-40D1-8452-0F793461C56F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0E777100-D736-40D1-8452-0F793461C56F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0E777100-D736-40D1-8452-0F793461C56F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0E777100-D736-40D1-8452-0F793461C56F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2DF39C44-25F3-4205-8790-11322D9854CF}
+	EndGlobalSection
+EndGlobal
