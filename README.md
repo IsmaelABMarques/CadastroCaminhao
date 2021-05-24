@@ -1,14 +1,14 @@
-# CadastroCaminehao
+# CadastroCaminhao
 
 ## Informação Geral
 
 Sistema para cadastrar caminhões.
 
 ## Inicialização do Banco de Dados
-No powershell, executar os Seguintes comandos:
+No powershell, executar os seguintes comandos na pasta CadastroCaminhao que contiver o arquivo CadastroCaminhao.csproj:
 
-dotnet ef migrations add InitialCreate --context RepositoryBase
-dotnet ef database update --context RepositoryBaseTest
+### dotnet ef database update --context RepositoryBase
+### dotnet ef database update --context RepositoryBaseTest
 
 ## Execução da API
 
